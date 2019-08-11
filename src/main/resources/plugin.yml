@@ -1,0 +1,4 @@
+name: CustomEnchants
+version: ${project.version}
+main: me.kodysimpson.customenchants.CustomEnchants
+api-version: 1.13
